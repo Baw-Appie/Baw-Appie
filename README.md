@@ -13,7 +13,7 @@
  - A-Bypass, [A-Font](https://gitlab.com/Baw-Appie/A-Font), [A-Shields](https://gitlab.com/Baw-Appie/A-Shields), ...
  - [Merona Repository](https://repo.co.kr), Baw Service, ...
 
-## I can do
+## I can do..
  - PHP
  - Javascript (+ Node.js)
  - Vue.js (+ Nuxt.js)
@@ -21,3 +21,7 @@
  - Swift
  - Java
  - Dart (+ Flutter)
+
+## I really hate..
+ - TypeScript (The advantage of Javascript is that it has no type)
+ - C, C#, C++ (It's very complicated. Do something else in time to learn it.)
