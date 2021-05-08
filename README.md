@@ -19,3 +19,5 @@
  - Vue.js (+ Nuxt.js)
  - Objective-C
  - Swift
+ - Java
+ - Dart (+ Flutter)
