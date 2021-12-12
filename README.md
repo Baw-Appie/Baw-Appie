@@ -14,14 +14,11 @@
  - [Merona Repository](https://repo.co.kr), Baw Service, ...
 
 ## I can do..
- - PHP
+ - PHP (btw, i do not use PHP)
  - Javascript (+ Node.js)
  - Vue.js (+ Nuxt.js)
  - Objective-C
  - Swift
- - Java
+ - Java, Kotlin
  - Dart (+ Flutter)
-
-## I really hate..
- - TypeScript (The advantage of Javascript is that it has no type)
- - C, C#, C++ (It's very complicated. Do something else in time to learn it.)
+ - Go
