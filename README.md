@@ -14,11 +14,12 @@
  - [Merona Repository](https://repo.co.kr), Baw Service, ...
 
 ## I can do..
- - PHP (btw, i do not use PHP)
- - Javascript (+ Node.js)
+ - Javascript (+ Node.js, I prefer Javascript)
  - Vue.js (+ Nuxt.js)
+ - Java, Kotlin
+ - Go
+ - Dart (+ Flutter)
  - Objective-C
  - Swift
- - Java, Kotlin
- - Dart (+ Flutter)
- - Go
+ - Rust
+ - PHP
