@@ -9,17 +9,28 @@
 
 </div>
 
-## I am iOS & Web Developer
- - A-Bypass, [A-Font](https://gitlab.com/Baw-Appie/A-Font), [A-Shields](https://gitlab.com/Baw-Appie/A-Shields), ...
- - [Merona Repository](https://repo.co.kr), Baw Service, ...
+# Hello!
+Hello! I'm BawAppie. (My real name is JiHun Oh 😁)
+I am a student 🧑‍🎓 living in Korea. 🇰🇷
 
-## I can do..
- - Javascript (+ Node.js, I prefer Javascript)
- - Vue.js (+ Nuxt.js)
- - Java, Kotlin
+## Main Project List
+ - iOS Tweaks
+   - A-Bypass, [A-Font](https://gitlab.com/Baw-Appie/A-Font), [A-Shields](https://gitlab.com/Baw-Appie/A-Shields), ...
+ - Web Projects 
+   - [Stella IT](https://stella-it.com), [Merona Repository](https://repo.co.kr), Baw Service(dead), ...
+ - Mobile Application 
+   - [Stella IT Console](https://console.stella-it.com)
+ - Etc 
+   - Appie-Go-Proxy
+
+## Main Language List
+ - Kotlin - 💁 Preferred!
+ - Javascript + Node.js (I hate typescript)
+ - Vue.js + Nuxt.js
+ - Java
  - Go
- - Dart (+ Flutter)
+ - Dart + Flutter
  - Objective-C
  - Swift
- - Rust
  - PHP
+ - #DeletePython
