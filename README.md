@@ -9,8 +9,8 @@
 
 </div>
 
-# Hello!
-Hello! I'm BawAppie. (My real name is JiHun Oh 😁)
+# Hello! 
+Hello! I'm BawAppie. (My real name is JiHun Oh 😁)  
 I am a student 🧑‍🎓 living in Korea. 🇰🇷
 
 ## Main Project List
@@ -23,7 +23,7 @@ I am a student 🧑‍🎓 living in Korea. 🇰🇷
  - Etc 
    - Appie-Go-Proxy
 
-## Main Language List
+## Language List
  - Kotlin - 💁 Preferred!
  - Javascript + Node.js (I hate typescript)
  - Vue.js + Nuxt.js
