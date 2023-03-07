@@ -16,10 +16,12 @@ I am a student 🧑‍🎓 living in Korea. 🇰🇷
 ## Main Project List
  - iOS Tweaks
    - A-Bypass, [A-Font](https://gitlab.com/Baw-Appie/A-Font), [A-Shields](https://gitlab.com/Baw-Appie/A-Shields), ...
- - Web Projects 
+ - Web Application 
    - [Stella IT](https://stella-it.com), [Merona Repository](https://repo.co.kr), Baw Service(dead), ...
  - Mobile Application 
-   - [Stella IT Console](https://console.stella-it.com)
+   - [Stella IT Console (iOS/Android)](https://console.stella-it.com)
+ - Browser Extension
+   - [Safe Transaction](https://github.com/Baw-Appie/SafeTransaction)
  - Etc 
    - Appie-Go-Proxy
 
