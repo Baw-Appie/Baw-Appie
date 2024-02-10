@@ -27,7 +27,7 @@ I am a student 🧑‍🎓 living in Korea. 🇰🇷
 
 ## Language List
  - Kotlin - 💁 Preferred!
- - Javascript + Node.js (I hate typescript)
+ - Javascript + Node.js (I hate Typescript)
  - Vue.js + Nuxt.js
  - Java
  - Go
@@ -35,4 +35,5 @@ I am a student 🧑‍🎓 living in Korea. 🇰🇷
  - Objective-C
  - Swift
  - PHP
+ - C# & .NET Framework
  - #DeletePython
