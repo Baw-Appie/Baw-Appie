@@ -5,35 +5,22 @@
 [![PayPal](https://img.shields.io/badge/Donation-PayPal-blue.svg)](https://paypal.me/pp121324)
 [![Patreon](https://img.shields.io/badge/Donation-Patreon-orange.svg)](https://patreon.com/BawAppie)
 [![GitHub followers](https://img.shields.io/github/followers/Baw-Appie?label=GitHub%20Followers)](https://github.com/Baw-Appie)
-[![Twitter Follow](https://img.shields.io/twitter/follow/BawAppie?label=Twtitter%20Followers&color=blue&style=flat)](https://twitter.com/BawAppie)
 
 </div>
 
 # Hello! 
-Hello! I'm BawAppie. (My real name is JiHun Oh 😁)  
-I am a student 🧑‍🎓 living in Korea. 🇰🇷
+🙋 Who is BawAppie?
+ - 🏷️ My real name is JiHun Oh
+ - 🇰🇷 I'm living in South Korea.
 
-## Main Project List
+🌍 Coding to Change the World
+ - 🛠️ Core Skills: Node.js, Vue.js, Kotlin
+ - 🎯 Goal: Becoming a better open-source contributor
+
+## Project List
  - iOS Tweaks
    - A-Bypass, [A-Font](https://gitlab.com/Baw-Appie/A-Font), [A-Shields](https://gitlab.com/Baw-Appie/A-Shields), ...
  - Web Application 
-   - [Stella IT](https://stella-it.com), [Merona Repository](https://repo.co.kr), Baw Service(dead), ...
- - Mobile Application 
-   - [Stella IT Console (iOS/Android)](https://console.stella-it.com)
+   - [Stella IT](https://stella-it.com), [Merona Repository](https://repo.co.kr)
  - Browser Extension
    - [Safe Transaction](https://github.com/Baw-Appie/SafeTransaction)
- - Etc 
-   - Appie-Go-Proxy
-
-## Language List
- - Kotlin - 💁 Preferred!
- - Javascript + Node.js (I hate Typescript)
- - Vue.js + Nuxt.js
- - Java
- - Go
- - Dart + Flutter
- - Objective-C
- - Swift
- - PHP
- - C# & .NET Framework
- - #DeletePython
