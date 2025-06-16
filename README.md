@@ -22,8 +22,6 @@
 
 ## Project List
  - iOS Tweaks
-   - [A-Bypass](https://github.com/Baw-Appie/A-Bypass), [A-Font](https://gitlab.com/Baw-Appie/A-Font), [A-Shields](https://gitlab.com/Baw-Appie/A-Shields), ...
+   - [A-Font](https://gitlab.com/Baw-Appie/A-Font), [A-Shields](https://gitlab.com/Baw-Appie/A-Shields), ...
  - Web Application 
    - [Stella IT](https://stella-it.com), [Merona Repository](https://repo.co.kr)
- - Browser Extension
-   - [Safe Transaction](https://github.com/Baw-Appie/SafeTransaction)
