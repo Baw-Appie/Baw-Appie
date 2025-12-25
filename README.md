@@ -1,6 +1,6 @@
 # Baw Appie 
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=Baw-Appie&show_icons=true&include_all_commits=true&layout=compact&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Baw-Appie&show_icons=true&include_all_commits=true&layout=compact&theme=dark&hide_border=true" />
 </div>
 
 <div align=center>
