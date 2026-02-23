@@ -19,9 +19,3 @@
 🌍 Coding to Change the World
  - 🛠️ Core Skills: Node.js, Vue.js, Kotlin
  - 🎯 Goal: Becoming a better open-source contributor
-
-## Project List
- - iOS Tweaks
-   - [A-Font](https://gitlab.com/Baw-Appie/A-Font), [A-Shields](https://gitlab.com/Baw-Appie/A-Shields), ...
- - Web Application 
-   - [Stella IT](https://stella-it.com), [Merona Repository](https://repo.co.kr)
